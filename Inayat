@@ -1,0 +1,38 @@
+ygh<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inayat Barkat - Excel Data Cleaning Expert</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; background-color: #f4f4f4; }
+        .container { max-width: 800px; margin: 20px auto; background: white; padding: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
+        h1 { color: #333; }
+        .section { margin: 20px 0; }
+        .btn { display: inline-block; padding: 10px 20px; background: #28a745; color: white; text-decoration: none; border-radius: 5px; }
+        .btn:hover { background: #218838; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to My Fiverr Profile</h1>
+        <p>I'm <strong>Inayat Barkat</strong>, an expert in <strong>MS Excel Data Cleaning</strong>. I help businesses clean, organize, and optimize their data for better efficiency.</p>
+        
+        <div class="section">
+            <h2>My Services</h2>
+            <p>- Data Cleaning & Formatting<br>- Removing Duplicates & Errors<br>- Data Sorting & Filtering<br>- Excel Formulas & Functions</p>
+        </div>
+
+        <div class="section">
+            <h2>Portfolio</h2>
+            <p>Here are some examples of my past work. (You can upload images or case studies here later.)</p>
+        </div>
+
+        <div class="section">
+            <h2>Contact Me</h2>
+            <p>If you need professional Excel data cleaning services, feel free to reach out.</p>
+            <a href="https://www.fiverr.com/yourprofile" class="btn">Hire Me on Fiverr</a>
+        </div>
+    </div>
+</body>
+</html>
